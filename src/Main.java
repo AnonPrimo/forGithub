@@ -6,6 +6,6 @@ public class Main {
 
         NewClass n = new NewClass();
 
-        n.Sum();
+        System.out.println(n.Sum());
     }
 }
