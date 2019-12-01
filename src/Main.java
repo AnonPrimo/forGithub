@@ -7,5 +7,8 @@ public class Main {
         NewClass n = new NewClass();
 
         System.out.println(n.Sum());
+
+        System.out.println(n.Sum() + n.Sum());
+
     }
 }
